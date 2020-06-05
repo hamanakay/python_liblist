@@ -1,9 +1,9 @@
 # python_liblist
 
-Package             Version
-------------------- --------------
-attrs               19.3.0
-backcall            0.1.0
+#Package             Version
+#------------------- --------------
+#attrs               19.3.0
+#backcall            0.1.0
 beautifulsoup4      4.7.1
 bleach              3.1.5
 certifi             2018.11.29
