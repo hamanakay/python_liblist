@@ -1,13 +1,13 @@
 # python_liblist
 
-#Package             Version
-#------------------- --------------
-#attrs               19.3.0
-#backcall            0.1.0
-beautifulsoup4      4.7.1
-bleach              3.1.5
-certifi             2018.11.29
-chardet             3.0.4
+Package             Version<br>
+------------------- --------------<br>
+attrs               19.3.0<br>
+backcall            0.1.0<br>
+beautifulsoup4      4.7.1<br>
+bleach              3.1.5<br>
+certifi             2018.11.29<br>
+chardet             3.0.4<br>
 chromedriver-binary 83.0.4103.39.0
 colorama            0.4.3
 cycler              0.10.0
